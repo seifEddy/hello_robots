@@ -26,9 +26,9 @@ you@you:~$ git clone https://github.com/seifEddy/hello_robots.git
 
 6. Connect with Real Robots: Once you feel comfortable with ROS simulations, explore the practical applications of ROS with real robots. Connect sensors, actuators, and other hardware components to your ROS system and build exciting robotic applications.
 
-## Contributing
+<!-- ## Contributing
 
-Contributions to Hello Robots are welcome! If you have code examples, tutorials, or improvements to share, please follow the contribution guidelines outlined in CONTRIBUTING.md. Together, we can make Hello Robots a valuable resource for the ROS community.
+Contributions to Hello Robots are welcome! If you have code examples, tutorials, or improvements to share, please follow the contribution guidelines outlined in CONTRIBUTING.md. Together, we can make Hello Robots a valuable resource for the ROS community. -->
 
 ## Resources
 
@@ -40,7 +40,7 @@ To further enhance your understanding of ROS and its applications, here are some
 
 ## License
 
-This repository is licensed under the [MIT License](LICENSE). Feel free to use the code and resources provided here for your own projects.
+This repository is licensed under the [MIT License]. Feel free to use the code and resources provided here for your own projects.
 
 ---
 
